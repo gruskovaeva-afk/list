@@ -1,0 +1,21 @@
+ul{
+    background-color: #f1efef;
+    padding: 25px;
+    list-style-position: inside;
+}
+li {
+    background-color: #78acc8;
+    padding: 10px;
+    margin: 10px;
+}
+.done {
+    text-decoration: line-through;
+    color: #ffffff;
+    background-color: #83969c;
+}
+.close {
+    color: rgb(232, 24, 24);
+    float: right;
+    cursor: pointer;
+    font-size: 25px;
+}
